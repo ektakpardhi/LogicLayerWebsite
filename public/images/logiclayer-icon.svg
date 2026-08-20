@@ -1,0 +1,10 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">LogicLayer icon</title>
+  <desc id="desc">A black geometric LogicLayer mark built from connected layers.</desc>
+  <rect x="2" y="2" width="60" height="60" rx="12" fill="#11152B"/>
+  <path d="M18 17H31C39.2843 17 46 23.7157 46 32C46 40.2843 39.2843 47 31 47H18V17Z" stroke="white" stroke-width="3"/>
+  <path d="M18 32H39" stroke="white" stroke-width="3"/>
+  <path d="M18 24.5H31M18 39.5H31" stroke="white" stroke-width="2" opacity="0.55"/>
+  <circle cx="18" cy="32" r="3.5" fill="white"/>
+  <path d="M49 14V50" stroke="white" stroke-width="2" opacity="0.22"/>
+</svg>

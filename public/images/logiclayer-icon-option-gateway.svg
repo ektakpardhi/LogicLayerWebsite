@@ -1,0 +1,8 @@
+<svg width="96" height="96" viewBox="0 0 96 96" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">LogicLayer gateway icon option</title><desc id="desc">Black gateway and signal LogicLayer icon.</desc>
+  <rect x="4" y="4" width="88" height="88" rx="18" fill="#11152B"/>
+  <path d="M26 70V28H43C57 28 68 36 68 48C68 60 57 68 43 68H26Z" stroke="white" stroke-width="4"/>
+  <path d="M26 48H57" stroke="#F8E96B" stroke-width="4"/>
+  <circle cx="26" cy="48" r="5" fill="#FF6947"/>
+  <path d="M68 22V74" stroke="white" stroke-width="3" opacity="0.35"/>
+</svg>
