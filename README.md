@@ -10,5 +10,5 @@ Examples:
 
 - VS Code: **File → Open Folder** and select the path above.
 - Node/npm local dependency:
-  - `npm install "%USERPROFILE%\\OneDrive\\Documents\\LogicLayerWebsite"`
+  - `npm install "%USERPROFILE%\OneDrive\Documents\LogicLayerWebsite"`
   - in `package.json` (expanded equivalent of `%USERPROFILE%`): `"logic-layer-website": "file:C:/Users/<username>/OneDrive/Documents/LogicLayerWebsite"`
