@@ -6,6 +6,8 @@ If you need to import/use this project from your local machine, use your local f
 
 `%USERPROFILE%\OneDrive\Documents\LogicLayerWebsite`
 
+Replace the example with your actual local path if your folder location is different.
+
 Examples:
 
 - VS Code: **File → Open Folder** and select the path above.
